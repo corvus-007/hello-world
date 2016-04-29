@@ -1,7 +1,7 @@
 # hello-world
 Мой первый репозиторий на GitHub
 
-I love :coffee:
+I love :tea:
 
 Всем привет!
 
